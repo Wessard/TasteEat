@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'CormorantInfant-Regular';
+    src: url(../fonts/CormorantInfant-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'JosefinSans-Regular';
+    src: url(../fonts/JosefinSans-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'CormorantInfant-Bold';
+    src: url(../fonts/CormorantInfant-Bold.ttf);
+    font-weight: bold;
+}
